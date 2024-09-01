@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/720p30/partial_movie_files/InteractiveRadius/233493676_3179159126_223132457.mp4'

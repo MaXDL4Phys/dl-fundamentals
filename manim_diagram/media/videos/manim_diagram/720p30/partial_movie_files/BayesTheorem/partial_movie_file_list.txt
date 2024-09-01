@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/720p30/partial_movie_files/BayesTheorem/1673695022_3970760437_223132457.mp4'
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/720p30/partial_movie_files/BayesTheorem/2365277341_2919340033_3063749619.mp4'
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/720p30/partial_movie_files/BayesTheorem/2365277341_580387239_2485798979.mp4'

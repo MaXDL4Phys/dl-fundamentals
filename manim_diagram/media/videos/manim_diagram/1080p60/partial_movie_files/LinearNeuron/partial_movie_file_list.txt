@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/1080p60/partial_movie_files/LinearNeuron/3529212410_1424863211_223132457.mp4'
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/1080p60/partial_movie_files/LinearNeuron/3040924799_2140733728_898094366.mp4'
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/1080p60/partial_movie_files/LinearNeuron/3040924799_2522557369_672370355.mp4'
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/1080p60/partial_movie_files/LinearNeuron/3040924799_1481894884_1412841409.mp4'
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/1080p60/partial_movie_files/LinearNeuron/3040924799_1084564642_3498316394.mp4'
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/1080p60/partial_movie_files/LinearNeuron/3040924799_2398244520_4161047774.mp4'
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/1080p60/partial_movie_files/LinearNeuron/3040924799_1892075841_465938373.mp4'
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/1080p60/partial_movie_files/LinearNeuron/3040924799_1733944848_1738680063.mp4'

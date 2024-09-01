@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/720p30/partial_movie_files/VisualFraction/2016333726_3674599996_223132457.mp4'
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/720p30/partial_movie_files/VisualFraction/543634251_2546863081_1900986935.mp4'
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/720p30/partial_movie_files/VisualFraction/543634251_1015475501_4177607291.mp4'
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/720p30/partial_movie_files/VisualFraction/543634251_2919340033_3900148621.mp4'
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/720p30/partial_movie_files/VisualFraction/543634251_2802507167_1358358862.mp4'
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/720p30/partial_movie_files/VisualFraction/543634251_784179552_2696291799.mp4'

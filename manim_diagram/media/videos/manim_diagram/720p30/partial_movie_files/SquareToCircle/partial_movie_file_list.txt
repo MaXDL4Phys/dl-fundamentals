@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/720p30/partial_movie_files/SquareToCircle/2016333726_2751728118_223132457.mp4'
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/720p30/partial_movie_files/SquareToCircle/543634251_1772076266_3256495558.mp4'
+file 'file:/Users/maxbosetti/Corsi_github/dl-fundamentals/manim_diagram/media/videos/manim_diagram/720p30/partial_movie_files/SquareToCircle/543634251_1733944848_2854629609.mp4'
